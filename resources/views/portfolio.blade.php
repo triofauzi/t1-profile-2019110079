@@ -31,7 +31,7 @@
         <div class="navbar-collapse collapse w-100 order-2 dual-collapse2">
             <ul class="navbar-nav mx-auto order-0">
                 <li class="nav-item">
-                    <a class="nav-link text-dark" href="portfolio.blade.php">portfolio</a>
+                    <a class="nav-link text-dark" href="#">portfolio</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="index.php">Home</a>

@@ -30,7 +30,7 @@
      <div class="navbar-collapse collapse w-100 order-2 dual-collapse2">
             <ul class="navbar-nav mx-auto order-0">
                 <li class="nav-item">
-                    <a class="nav-link text-dark"  aria-current="page" href="portfolio.php">portfolio</a>
+                    <a class="nav-link text-dark"  aria-current="page" href="portfolio.blade.php">portfolio</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link"  aria-current="page" href="#">Home</a>
@@ -81,20 +81,18 @@
                  <p class="font_8" style="line-height:1.8em; font-size:16px;">Saya lahir di Garut tahun 2001,sekarang saya tinggal di kota Bandung karena sedang berkuliah di kota bandung&nbsp;</p>
                 </li>
                 <li>
-                 <p class="font_8" style="line-height:1.8em; font-size:16px;">Hobi saya berolahraga&nbsp;nonton musik dan trevelling&nbsp;</p>
+                 <p class="font_8" style="line-height:1.8em; font-size:16px;">Hobi saya berolahraga&nbsp;nonton musik dan travelling ketempat-tempat baru dan bertemu orang-orang baru serta mendapt suasana baru&nbsp;</p>
                 </li>
-                <li>
-                 <p class="font_8" style="line-height:1.8em; font-size:16px;">Saya menguasai beberapa bahasa pemrograman HTML, CSS, JavaScript dan PHP&nbsp;</p>
-                </li>
+
             </ul>
             </div>
             <div class="col-md-4" >
                 <ul class="font_8" style="font-size:16px;">
                     <li>
-                    <p class="font_8" style="line-height:1.8em; font-size:16px;"> (usability test, field study, remote studies,&nbsp;interviews, surveys, tree test, card sort)</p>
+                    <p class="font_8" style="line-height:1.8em; font-size:16px;">Saya senang melakukan hal-hal baru dan mengexplor kemampuan saya agar bisa memahami diri tau batasan dan kemampuan diri sendiri&nbsp;</p>
                     </li>
                     <li>
-                    <p class="font_8" style="line-height:1.8em; font-size:16px;">Experience&nbsp;in conducting user research for&nbsp;different customer-facing products for the web app, mobile apps (iOS &amp; Android) and internal tool</p>
+                        <p class="font_8" style="line-height:1.8em; font-size:16px;">Saya menguasai beberapa bahasa pemrograman HTML, CSS, JavaScript dan PHP&nbsp;</p>
                     </li>
                     </ul>
                 </div>
